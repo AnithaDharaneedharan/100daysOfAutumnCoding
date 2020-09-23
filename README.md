@@ -1,6 +1,6 @@
 # 100daysOfAutumnCoding
 
-Day 0: Sep 22, 2020 Github : 
+Day 1: Sep 22, 2020 Github : 
 
 Today's Progress: Made a huge effort in starting to code after a long break
 
