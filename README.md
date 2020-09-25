@@ -17,7 +17,7 @@ Today's Progress: Building codepen clone using React and libraries
 Thoughts: 
 Experimented with: Used code editor libraries , iframe, hooks, onBeforeChange event handler from inbuilt library component
 
-Link(s) to work: https://www.youtube.com/watch?v=dtKciwk_si4&t=28530s
+Link(s) to work: https://www.youtube.com/watch?v=wcVxX7lu2d4&t=1113s
 
 Day 3: Sep 24, 2020 Github : 
 
