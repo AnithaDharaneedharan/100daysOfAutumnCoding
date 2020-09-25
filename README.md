@@ -19,7 +19,7 @@ Experimented with: Used code editor libraries , iframe, hooks, onBeforeChange ev
 
 Link(s) to work: https://www.youtube.com/watch?v=dtKciwk_si4&t=28530s
 
-Day 3: Sep 23, 2020 Github : 
+Day 3: Sep 24, 2020 Github : 
 
 Today's Progress: Building codepen clone using React and libraries
 
@@ -28,4 +28,16 @@ Thoughts: Always this refers to the current object the code is written in (the p
 Experimented with: Classes , Objects , Static method and scope
 
 Link(s) to work: https://jsbin.com/pimapum/2/edit?html,js,output
+
+
+
+Day 3: Sep 24, 2020 Github : 
+
+Today's Progress: Building codepen clone using React and libraries
+
+Thoughts: Always this refers to the current object the code is written in (the parent), so check the scope of this
+
+Experimented with: Classes , Objects , Static method and scope
+
+Link(s) to work: https://jsbin.com/jukenil/2/edit?html,js,output
 
