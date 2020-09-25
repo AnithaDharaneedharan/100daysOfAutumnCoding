@@ -23,7 +23,7 @@ Day 3: Sep 23, 2020 Github :
 
 Today's Progress: Building codepen clone using React and libraries
 
-Thoughts: Always this refers to its parent, so check the scope of this
+Thoughts: Always this refers to the current object the code is written in (the parent), so check the scope of this
 
 Experimented with: Classes , Objects , Static method and scope
 
