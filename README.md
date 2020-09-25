@@ -31,7 +31,7 @@ Link(s) to work: https://jsbin.com/pimapum/2/edit?html,js,output
 
 
 
-Day 4: Sep 24, 2020 Github : 
+Day 4: Sep 25, 2020 Github : 
 
 Today's Progress: Understanding constructor pattern - Design Patterns
 
