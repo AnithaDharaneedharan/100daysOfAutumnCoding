@@ -21,9 +21,9 @@ Link(s) to work: https://www.youtube.com/watch?v=dtKciwk_si4&t=28530s
 
 Day 3: Sep 24, 2020 Github : 
 
-Today's Progress: Building codepen clone using React and libraries
+Today's Progress: Understanding classes . objects, static methods and this 
 
-Thoughts: Always this refers to the current object the code is written in (the parent), so check the scope of this
+Thoughts: Always this refers to the current object the code is written in (the parent), so check the scope of this. Class is the blue print and objects are real world
 
 Experimented with: Classes , Objects , Static method and scope
 
@@ -31,7 +31,7 @@ Link(s) to work: https://jsbin.com/pimapum/2/edit?html,js,output
 
 
 
-Day 3: Sep 24, 2020 Github : 
+Day 4: Sep 24, 2020 Github : 
 
 Today's Progress: Building codepen clone using React and libraries
 
