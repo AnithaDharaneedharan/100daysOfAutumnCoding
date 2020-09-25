@@ -33,11 +33,11 @@ Link(s) to work: https://jsbin.com/pimapum/2/edit?html,js,output
 
 Day 4: Sep 24, 2020 Github : 
 
-Today's Progress: Building codepen clone using React and libraries
+Today's Progress: Understanding constructor pattern - Design Patterns
 
-Thoughts: Always this refers to the current object the code is written in (the parent), so check the scope of this
+Thoughts: Constructor pattern is creating objects , When you create a new instance of class, all of the properties of your constructor are duplicated. Prototype methods, on the other hand, act a reference function .
 
-Experimented with: Classes , Objects , Static method and scope
+Experimented with: Classes , Objects , Static method and scope, prototypes
 
 Link(s) to work: https://jsbin.com/jukenil/2/edit?html,js,output
 
