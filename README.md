@@ -57,3 +57,15 @@ Thoughts: initail value of the state varuable can be a function too as in this c
 Experimented with: useEffect, useState, localStorage 
 
 Link(s) to work: https://www.youtube.com/watch?v=wcVxX7lu2d4&t=1113s
+
+
+
+Day 6: Sep 26, 2020 Github : 
+
+Today's Progress: https://github.com/AnithaDharaneedharan/recipe-app
+
+Thoughts: Fetching recipes from API using React hooks , usng css modules for styling , passing props to child component , useEffect and render 
+
+Experimented with: useEffect, useState, css modules , setting keys , using maps 
+
+Link(s) to work: https://www.youtube.com/watch?v=wcVxX7lu2d4&t=1113s
