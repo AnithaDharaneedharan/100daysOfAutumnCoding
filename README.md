@@ -1,6 +1,6 @@
 # 100daysOfAutumnCoding
 
-Day 1: Sep 22, 2020 Github : 
+Day 1: Sep 22, 2020 Github : https://github.com/AnithaDharaneedharan/vanilla_mini/tree/master/password-generator
 
 Today's Progress: Made a huge effort in starting to code after a long break
 
@@ -9,6 +9,7 @@ Thoughts: Imitated a password generator
 Experimented with: Vanilla JS and css
 
 Link(s) to work: https://www.youtube.com/watch?v=dtKciwk_si4&t=28530s
+
 
 Day 2: Sep 23, 2020 Github : https://github.com/AnithaDharaneedharan/codepen-clone
 
@@ -19,9 +20,10 @@ Experimented with: Used code editor libraries , iframe, hooks, onBeforeChange ev
 
 Link(s) to work: https://www.youtube.com/watch?v=wcVxX7lu2d4&t=1113s 
 
+
 Day 3: Sep 24, 2020 
 
-Github : 
+Github : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 
 Today's Progress: Understanding classes . objects, static methods and this 
 
@@ -50,8 +52,8 @@ Day 5: Sep 26, 2020 Github :
 
 Today's Progress: https://github.com/AnithaDharaneedharan/codepen-clone
 
-Thoughts:
+Thoughts: initail value of the state varuable can be a function too as in this case where we try to store the value as function
 
-Experimented with: Classes , Objects , Static method and scope, prototypes
+Experimented with: useEffect, useState, localStorage 
 
 Link(s) to work: https://www.youtube.com/watch?v=wcVxX7lu2d4&t=1113s
