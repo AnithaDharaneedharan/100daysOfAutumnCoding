@@ -10,16 +10,18 @@ Experimented with: Vanilla JS and css
 
 Link(s) to work: https://www.youtube.com/watch?v=dtKciwk_si4&t=28530s
 
-Day 2: Sep 23, 2020 Github : 
+Day 2: Sep 23, 2020 Github : https://github.com/AnithaDharaneedharan/codepen-clone
 
 Today's Progress: Building codepen clone using React and libraries
 
 Thoughts: 
 Experimented with: Used code editor libraries , iframe, hooks, onBeforeChange event handler from inbuilt library component
 
-Link(s) to work: https://www.youtube.com/watch?v=wcVxX7lu2d4&t=1113s
+Link(s) to work: https://www.youtube.com/watch?v=wcVxX7lu2d4&t=1113s 
 
-Day 3: Sep 24, 2020 Github : 
+Day 3: Sep 24, 2020 
+
+Github : 
 
 Today's Progress: Understanding classes . objects, static methods and this 
 
@@ -31,7 +33,9 @@ Link(s) to work: https://jsbin.com/pimapum/2/edit?html,js,output
 
 
 
-Day 4: Sep 25, 2020 Github : 
+Day 4: Sep 25, 2020 
+
+Github : https://jsbin.com/jukenil/2/edit?html,js,output 
 
 Today's Progress: Understanding constructor pattern - Design Patterns
 
@@ -39,5 +43,15 @@ Thoughts: Constructor pattern is creating objects , When you create a new instan
 
 Experimented with: Classes , Objects , Static method and scope, prototypes
 
-Link(s) to work: https://jsbin.com/jukenil/2/edit?html,js,output
+Link(s) to work: https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern
 
+
+Day 5: Sep 26, 2020 Github : 
+
+Today's Progress: https://github.com/AnithaDharaneedharan/codepen-clone
+
+Thoughts:
+
+Experimented with: Classes , Objects , Static method and scope, prototypes
+
+Link(s) to work: https://www.youtube.com/watch?v=wcVxX7lu2d4&t=1113s
