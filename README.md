@@ -60,7 +60,7 @@ Link(s) to work: https://www.youtube.com/watch?v=wcVxX7lu2d4&t=1113s
 
 
 
-Day 6: Sep 26, 2020 Github : 
+Day 6: Sep 27, 2020 Github : 
 
 Today's Progress: https://github.com/AnithaDharaneedharan/recipe-app
 
@@ -69,3 +69,29 @@ Thoughts: Fetching recipes from API using React hooks , usng css modules for sty
 Experimented with: useEffect, useState, css modules , setting keys , using maps 
 
 Link(s) to work: https://www.youtube.com/watch?v=U9T6YkEDkMo
+
+
+Day 7: Sep 28, 2020 Github : 
+
+Today's Progress: https://github.com/AnithaDharaneedharan/recipe-app
+
+Thoughts: Fetching recipes from API using React hooks , usng css modules for styling , passing props to child component , useEffect and render 
+
+Experimented with: useEffect, useState, css modules , setting keys , using maps 
+
+Link(s) to work: https://www.youtube.com/watch?v=U9T6YkEDkMo
+
+
+Day 8: Sep 29, 2020 Github : 
+
+Today's Progress: https://github.com/AnithaDharaneedharan/recipe-app
+
+Thoughts: Fetching recipes from API using React hooks , usng css modules for styling , passing props to child component , useEffect and render 
+
+Experimented with: useEffect, useState, css modules , setting keys , using maps 
+
+Link(s) to work: https://www.youtube.com/watch?v=U9T6YkEDkMo
+
+
+Checklist:
+https://medium.com/@igorwojda/5-kinds-of-side-effects-a67f6b495af9#:~:text=Impure%20functions%20(with%20side%20effects,as%20a%20warning%20for%20you.
