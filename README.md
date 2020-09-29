@@ -73,24 +73,24 @@ Link(s) to work: https://www.youtube.com/watch?v=U9T6YkEDkMo
 
 Day 7: Sep 28, 2020 Github : 
 
-Today's Progress: https://github.com/AnithaDharaneedharan/recipe-app
+Today's Progress: 
 
-Thoughts: Fetching recipes from API using React hooks , usng css modules for styling , passing props to child component , useEffect and render 
+Thoughts: Pure functions - pros are many mainly eases writing unit tests and helps in refactoring, Cons: making request to external sources like Databases makes it impure
 
-Experimented with: useEffect, useState, css modules , setting keys , using maps 
+Experimented with: pure fns, side effects produced by fns and how to fix it using spread operator
 
-Link(s) to work: https://www.youtube.com/watch?v=U9T6YkEDkMo
+Link(s) to work: https://blog.webdevsimplified.com/2020-09/pure-functions/
 
 
 Day 8: Sep 29, 2020 Github : 
 
-Today's Progress: https://github.com/AnithaDharaneedharan/recipe-app
+Today's Progress: 
 
 Thoughts: Fetching recipes from API using React hooks , usng css modules for styling , passing props to child component , useEffect and render 
 
 Experimented with: useEffect, useState, css modules , setting keys , using maps 
 
-Link(s) to work: https://www.youtube.com/watch?v=U9T6YkEDkMo
+Link(s) to work: 
 
 
 Checklist:
