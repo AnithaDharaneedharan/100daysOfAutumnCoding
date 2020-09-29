@@ -73,7 +73,7 @@ Link(s) to work: https://www.youtube.com/watch?v=U9T6YkEDkMo
 
 Day 7: Sep 28, 2020 Github : 
 
-Today's Progress: 
+Today's Progress: https://jsbin.com/kurayac/edit?html,js,console,output
 
 Thoughts: Pure functions - pros are many mainly eases writing unit tests and helps in refactoring, Cons: making request to external sources like Databases makes it impure
 
