@@ -90,8 +90,13 @@ Thoughts: Fetching recipes from API using React hooks , usng css modules for sty
 
 Experimented with: useEffect, useState, css modules , setting keys , using maps 
 
-Link(s) to work: 
+Link(s) to work: https://www.youtube.com/watch?v=fxY1q4SCB64
+
 
 
 Checklist:
 https://medium.com/@igorwojda/5-kinds-of-side-effects-a67f6b495af9#:~:text=Impure%20functions%20(with%20side%20effects,as%20a%20warning%20for%20you.
+https://www.youtube.com/watch?v=JgWm6sQwS_I
+https://www.youtube.com/watch?v=fxY1q4SCB64
+https://www.youtube.com/watch?v=ZwFA3YMfkoc&t=37s
+
