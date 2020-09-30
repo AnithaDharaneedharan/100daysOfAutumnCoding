@@ -93,6 +93,17 @@ Experimented with: useEffect, useState, css modules , setting keys , using maps
 Link(s) to work: https://www.youtube.com/watch?v=fxY1q4SCB64
 
 
+Day 9: Sep 30, 2020 Github : 
+
+Today's Progress: 
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work: 
+
+
 
 Checklist:
 https://medium.com/@igorwojda/5-kinds-of-side-effects-a67f6b495af9#:~:text=Impure%20functions%20(with%20side%20effects,as%20a%20warning%20for%20you.
