@@ -101,7 +101,7 @@ Thoughts:
 
 Experimented with: 
 
-Link(s) to work: 
+Link(s) to work: http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
 
 
 
