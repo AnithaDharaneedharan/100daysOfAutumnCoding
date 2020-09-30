@@ -84,18 +84,18 @@ Link(s) to work: https://blog.webdevsimplified.com/2020-09/pure-functions/
 
 Day 8: Sep 29, 2020 Github : 
 
-Today's Progress: 
+Today's Progress: Understanding the concept of centralized store for saving state.
 
-Thoughts: Fetching recipes from API using React hooks , usng css modules for styling , passing props to child component , useEffect and render 
+Thoughts: Made me study basics of Redux - store, state, actions, reducers, subscribe
 
-Experimented with: useEffect, useState, css modules , setting keys , using maps 
+Experimented with: Redux 
 
 Link(s) to work: https://www.youtube.com/watch?v=fxY1q4SCB64
 
 
 Day 9: Sep 30, 2020 Github : 
 
-Today's Progress: 
+Today's Progress: Design Pattern - Modular Pattern
 
 Thoughts: 
 
