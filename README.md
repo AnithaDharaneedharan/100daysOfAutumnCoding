@@ -99,4 +99,5 @@ https://medium.com/@igorwojda/5-kinds-of-side-effects-a67f6b495af9#:~:text=Impur
 https://www.youtube.com/watch?v=JgWm6sQwS_I
 https://www.youtube.com/watch?v=fxY1q4SCB64
 https://www.youtube.com/watch?v=ZwFA3YMfkoc&t=37s
+https://www.youtube.com/watch?v=rsd4FNGTRBw
 https://www.youtube.com/watch?v=Yw-SYSG-028
