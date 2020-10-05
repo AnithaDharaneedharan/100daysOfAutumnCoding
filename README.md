@@ -106,44 +106,44 @@ Link(s) to work: http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Dept
 
 Day 10: Oct 01, 2020 Github : 
 
-Today's Progress: 
+Today's Progress: MERN Authentication
 
 Thoughts: 
 
 Experimented with: 
 
-Link(s) to work: 
+Link(s) to work: https://www.youtube.com/watch?v=4_ZiJGY5F38
 
 
 Day 11: Oct 2, 2020 Github : 
 
-Today's Progress: Design Pattern - Modular Pattern
+Today's Progress: MERN Authentication
 
 Thoughts: 
 
 Experimented with: 
 
-Link(s) to work: http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
+Link(s) to work: https://www.youtube.com/watch?v=frdMgKC-0r8&t=22s
 
 Day 12: Oct 3, 2020 Github : 
 
-Today's Progress: Design Pattern - Modular Pattern
+Today's Progress: MERN Authentication
 
 Thoughts: 
 
 Experimented with: 
 
-Link(s) to work: http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
+Link(s) to work: https://www.youtube.com/watch?v=frdMgKC-0r8&t=22s
 
 Day 13: Oct 4, 2020 Github : 
 
-Today's Progress: Design Pattern - Modular Pattern
+Today's Progress: MERN Authentication
 
 Thoughts: 
 
 Experimented with: 
 
-Link(s) to work: http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
+Link(s) to work: https://www.youtube.com/watch?v=BKiiXXVb69Y&t=9s
 
 
 
