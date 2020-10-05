@@ -104,6 +104,48 @@ Experimented with:
 Link(s) to work: http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
 
 
+Day 10: Oct 01, 2020 Github : 
+
+Today's Progress: 
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work: 
+
+
+Day 11: Oct 2, 2020 Github : 
+
+Today's Progress: Design Pattern - Modular Pattern
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work: http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
+
+Day 12: Oct 3, 2020 Github : 
+
+Today's Progress: Design Pattern - Modular Pattern
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work: http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
+
+Day 13: Oct 4, 2020 Github : 
+
+Today's Progress: Design Pattern - Modular Pattern
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work: http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
+
+
 
 Checklist:
 https://medium.com/@igorwojda/5-kinds-of-side-effects-a67f6b495af9#:~:text=Impure%20functions%20(with%20side%20effects,as%20a%20warning%20for%20you.
