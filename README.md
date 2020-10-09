@@ -145,6 +145,46 @@ Experimented with:
 
 Link(s) to work: https://www.youtube.com/watch?v=BKiiXXVb69Y&t=9s
 
+Day 14: Oct 5, 2020 Github : 
+
+Today's Progress: MERN Authentication
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work: https://www.youtube.com/watch?v=BKiiXXVb69Y&t=9s
+
+Day 15: Oct 6, 2020 Github : 
+
+Today's Progress: MERN Authentication
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work: https://www.youtube.com/watch?v=BKiiXXVb69Y&t=9s
+
+Day 16: Oct 7, 2020 Github : 
+
+Today's Progress: MERN Authentication
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work: https://www.youtube.com/watch?v=BKiiXXVb69Y&t=9s
+
+Day 17: Oct 8, 2020 Github : 
+
+Today's Progress: MERN Authentication
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work: https://www.youtube.com/watch?v=BKiiXXVb69Y&t=9s
+
 
 
 Checklist:
