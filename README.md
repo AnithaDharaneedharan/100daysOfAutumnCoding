@@ -123,7 +123,7 @@ Thoughts:
 
 Experimented with: 
 
-Link(s) to work: https://www.youtube.com/watch?v=frdMgKC-0r8&t=22s
+Link(s) to work: https://www.youtube.com/watch?v=frdMgKC-0r8&t=23s
 
 Day 12: Oct 3, 2020 Github : 
 
@@ -133,7 +133,7 @@ Thoughts:
 
 Experimented with: 
 
-Link(s) to work: https://www.youtube.com/watch?v=frdMgKC-0r8&t=22s
+Link(s) to work: https://www.youtube.com/watch?v=BKiiXXVb69Y
 
 Day 13: Oct 4, 2020 Github : 
 
@@ -143,7 +143,7 @@ Thoughts:
 
 Experimented with: 
 
-Link(s) to work: https://www.youtube.com/watch?v=BKiiXXVb69Y&t=9s
+Link(s) to work: https://www.youtube.com/watch?v=Rdbs2W6R23c&t=1830s
 
 Day 14: Oct 5, 2020 Github : 
 
@@ -153,7 +153,7 @@ Thoughts:
 
 Experimented with: 
 
-Link(s) to work: https://www.youtube.com/watch?v=BKiiXXVb69Y&t=9s
+Link(s) to work: https://www.youtube.com/watch?v=sWfD20ortB4
 
 Day 15: Oct 6, 2020 Github : 
 
@@ -163,7 +163,7 @@ Thoughts:
 
 Experimented with: 
 
-Link(s) to work: https://www.youtube.com/watch?v=BKiiXXVb69Y&t=9s
+Link(s) to work: 
 
 Day 16: Oct 7, 2020 Github : 
 
@@ -173,7 +173,7 @@ Thoughts:
 
 Experimented with: 
 
-Link(s) to work: https://www.youtube.com/watch?v=BKiiXXVb69Y&t=9s
+Link(s) to work: 
 
 Day 17: Oct 8, 2020 Github : 
 
@@ -183,7 +183,7 @@ Thoughts:
 
 Experimented with: 
 
-Link(s) to work: https://www.youtube.com/watch?v=BKiiXXVb69Y&t=9s
+Link(s) to work:
 
 
 
