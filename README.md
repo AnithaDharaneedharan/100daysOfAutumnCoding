@@ -185,6 +185,16 @@ Experimented with:
 
 Link(s) to work:
 
+Day 18: Oct 9, 2020 Github : 
+
+Today's Progress: Github jobs
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work:
+
 
 
 Checklist:
