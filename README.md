@@ -195,6 +195,56 @@ Experimented with:
 
 Link(s) to work:
 
+Day 19: Oct 10, 2020 Github : 
+
+Today's Progress: Shopping cart using React and Redux
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work:
+
+Day 20: Oct 11, 2020 Github : 
+
+Today's Progress: Shopping cart using React and Redux
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work:
+
+Day 21: Oct 12, 2020 Github : 
+
+Today's Progress: Shopping cart using React and Redux
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work:
+
+Day 22: Oct 13, 2020 Github : 
+
+Today's Progress: Shopping cart using React and Redux
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work:
+
+Day 23: Oct 14, 2020 Github : 
+
+Today's Progress: Shopping cart using React and Redux
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work:
+
 
 
 Checklist:
