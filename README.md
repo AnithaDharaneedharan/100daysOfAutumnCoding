@@ -245,6 +245,15 @@ Experimented with:
 
 Link(s) to work:
 
+Day 24: Oct 15, 2020 Github : 
+
+Today's Progress: React Native - NetNinja -
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work:
 
 
 Checklist:
