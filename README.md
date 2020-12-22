@@ -267,3 +267,6 @@ https://www.youtube.com/watch?v=4lF7IiIHliU
 https://www.youtube.com/watch?v=4_ZiJGY5F38&t=17s
 https://www.youtube.com/watch?v=E3NHd-PkLrQ
 DESIGN PATTERNS , unidirectional Data flow 
+https://www.youtube.com/watch?v=LN6Dol_fX0w - hacker news api
+https://www.youtube.com/watch?v=n1mdAPFq2Os - React / GraphQL Course - Build a social media app (MERNG Stack)
+https://www.youtube.com/watch?v=m_u6P5k0vP0&t=10647s - Full Stack React & Firebase Tutorial - Build a social media app
