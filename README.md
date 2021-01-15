@@ -1,4 +1,4 @@
-# 100daysOfAutumnCoding
+# InterviewIntensivePreparation
 
 Day 1: Sep 22, 2020 Github : https://github.com/AnithaDharaneedharan/vanilla_mini/tree/master/password-generator
 
@@ -238,6 +238,26 @@ Link(s) to work:
 Day 23: Oct 14, 2020 Github : 
 
 Today's Progress: Shopping cart using React and Redux
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work:
+
+Day 24: Oct 15, 2020 Github : 
+
+Today's Progress: React Native - NetNinja -
+
+Thoughts: 
+
+Experimented with: 
+
+Link(s) to work:
+
+Day 24: Oct 15, 2020 Github : 
+
+Today's Progress: React Native - NetNinja -
 
 Thoughts: 
 
